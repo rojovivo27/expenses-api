@@ -1,0 +1,8 @@
+Subir actalizacion del proyecto
+
+git init
+git remote add origin https://github.com/rojovivo27/expenses-api.git
+git pull origin master
+git add .
+git commit -m "Primera clase"
+git push origin master
